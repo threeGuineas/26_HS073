@@ -134,7 +134,6 @@ ThisAbled는 **접근성·관계 형성·온라인 안전을 하나의 커뮤니
 | [@mi-noong](https://github.com/mi-noong) | 프런트엔드, 장애 유형별 UI/UX, PWA·접근성 기능 | [`thisabled-frontend`](https://github.com/threeGuineas/thisabled-frontend) |
 | [@coketazo](https://github.com/coketazo) | 백엔드, REST·WebSocket API, 데이터베이스·인프라 | [`thisabled-backend`](https://github.com/threeGuineas/thisabled-backend) |
 | [@soyuncj](https://github.com/soyuncj) | AI 모델, 데이터 파이프라인, 평가·모델 서빙 | [`thisabled-ai`](https://github.com/threeGuineas/thisabled-ai) |
-| 오현창 | 프로젝트 기획·기술 멘토링 | 한이음 드림업 멘토 |
 
 ---
 
